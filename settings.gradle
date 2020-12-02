@@ -1,0 +1,3 @@
+include ':zalorx'
+include ':app'
+rootProject.name = "TestRxJava"
